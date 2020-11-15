@@ -1,3 +1,3 @@
 # Hello-world
 My first repository
-This is the first repository in which I parctise to make a branch
+This is the first repository in which I practise to make a branch
